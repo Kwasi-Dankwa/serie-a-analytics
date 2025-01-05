@@ -23,4 +23,15 @@ The file details provide an overview of each dataset, including a brief descript
 
 
 
-# Context
+# Context/ASK PHASE
+I'm a data analyst at a top 6 PL club that failed to qualify for the Champions league due to an aging squad. The club has put me in charge of finding young players the scouting team can target based on performance metrics from the 2023/2024 season.
+
+Insights They Want:
+* Scout potential transfer targets based on performance metrics.
+* Assess opponents' strengths and weaknesses for match preparation.
+* Evaluate their own players' performances for development and tactical adjustments.
+  
+  ### Use Case:
+  Use passing accuracy and possession metrics to identify midfielders who can strengthen the team's ball control.
+
+# Prepare PHASE
