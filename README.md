@@ -24,7 +24,7 @@ The file details provide an overview of each dataset, including a brief descript
 
 
 # Context/ASK PHASE
-I'm a data analyst at a top 6 PL club that failed to qualify for the Champions league due to an aging squad. The club has put me in charge of finding young players the scouting team can target based on performance metrics from the 2023/2024 season.
+I'm a data analyst at Napoli. The team failed to qualify for Champions league football after winning their legue the prior year. The club has put me in charge of spotting key metrics to analyze what went wrong and find pontential players they can add to the squad based on performance metrics from the 2023/2024 season.
 
 Insights They Want:
 * Scout potential transfer targets based on performance metrics.
