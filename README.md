@@ -35,8 +35,10 @@ Insights They Want:
   Use passing accuracy and possession metrics to identify midfielders who can strengthen the team's ball control.
 
 # Prepare and Process PHASE
-The dataset from kaggle was already cleaned and ranked so it fufilled integrety requirements. However, the columns of the csv files useds had to be renamed to adhere to standard naming conventions.
-Tools Used for Analysis: SQLWorkBench and Tableau
+-The dataset from kaggle was already cleaned and ranked so it fufilled integrety requirements. However, the columns of the csv files useds had to be renamed to adhere to standard naming conventions.
+
+-Tools Used for Analysis: SQLWorkBench and Tableau
+
 Datasets used:
 * league_table23_24
 * expected_goals_conceded_team
