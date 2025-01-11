@@ -1,3 +1,5 @@
+-- EDA
+
 -- view the data from league table to find out napolis league position and gd
 select idx, name, scoresStr, goalConDiff, pts
 from league_table23_24;
@@ -63,5 +65,41 @@ LIMIT 5;
 -- the five best clearers in the league play for udinese(bijol, kristensen), empoli(ismajli, walukiewicz) and cagliari(dossena)
 -- these players can help napoli sort their defensive issues
 
+-- query big chances created by team
+SELECT Team, SUM(Big_Chances_Created) AS Total_Big_Chances
+FROM player_big_chances_created
+GROUP BY Team;
+
+-- shows napoli were 2nd in big chances created, lets assess conversion rates to see why they finished 10th
+
+-- finding average shot conversion rate
+select avg(shot_conversion_rate) as SCR
+from player_total_scoring_attempts;
+
+-- Comparing Napoli Players to the Average
+SELECT Player, Team, Shot_Conversion_Rate,
+       (SELECT AVG(Shot_Conversion_Rate) FROM player_total_scoring_attempts) AS Avg_League_Rate
+FROM player_total_scoring_attempts
+WHERE Team = 'Napoli';
+
+-- Return napoli players with shot conversion rate is less than avg league rate
+SELECT Player, Team, Shot_Conversion_Rate,
+       (SELECT AVG(Shot_Conversion_Rate) FROM player_total_scoring_attempts) AS Avg_League_Rate
+FROM player_total_scoring_attempts
+WHERE Team = 'Napoli' and Shot_Conversion_Rate < (SELECT AVG(Shot_Conversion_Rate) FROM player_total_scoring_attempts);
+
+-- results show napoli has 8 outfield players with shot conversion below the avg league rate
+
+-- lets find the best 5 players with a shot conversion rate higher than league average who are not in napoli
+SELECT Player, Team, Shot_Conversion_Rate, (SELECT AVG(Shot_Conversion_Rate) FROM player_total_scoring_attempts) AS Avg_League_Rate,
+RANK() over(order by Shot_Conversion_Rate desc) as League_Rank
+FROM player_total_scoring_attempts
+WHERE Team != 'Napoli' and Shot_Conversion_Rate > (SELECT AVG(Shot_Conversion_Rate) FROM player_total_scoring_attempts)
+LIMIT 5;
+
+-- the best 5 players in terms of conversion rate in the league are monterisi, patric, arnautovic, jovic and okafor. these players can help fix napolis shorts conversion issues and it will be advisable to add them to scouting database
+
+
+-- this sql script can aid in my tableau visializations
 
 
