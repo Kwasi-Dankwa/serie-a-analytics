@@ -49,3 +49,13 @@ Insights They Want:
 * player_total_scoring_attempts
 
 # Analyze PHASE
+
+* Based of the requirements of the project I am going to analyze napolis performance at the team level and then proceed to assess how individuals on the team conntributed to that performance.
+
+* After I'll proceed to assess the averages of certain metrics and investigate if players are above or below certain averages.
+
+* I will then make recommendations of key players Napoli can scout based on individual performances across key metrics in the league-- for both offense and defense.
+
+# Share PHASE
+
+Results and Recommended Insightsbased on key findings will be given using Tableau
