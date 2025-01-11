@@ -1,15 +1,15 @@
-# Serie-a-analytics
+# Serie-A-analytics
 
 # Information
 About Dataset
 Serie A 2023/24: Match, Player, and Team Performance Insights
 Dataset Description
-This dataset offers an in-depth analysis of the 2023/24 Serie A season, capturing comprehensive data on team and player performances across all matchdays. With over 50 individual CSV files, this collection includes stats on passing accuracy, goal-scoring, defensive actions, possession metrics, and player ratings. Whether you're looking to analyze top scorers, assess team strengths, or delve into individual player contributions, this dataset provides a rich foundation for football analytics enthusiasts and professionals alike.
+This [Dataset](https://www.kaggle.com/datasets/whisperingkahuna/serie-a-2324-team-and-player-insights)  offers an in-depth analysis of the 2023/24 Serie A season, capturing comprehensive data on team and player performances across all matchdays. With over 50 individual CSV files, this collection includes stats on passing accuracy, goal-scoring, defensive actions, possession metrics, and player ratings. Whether you're looking to analyze top scorers, assess team strengths, or delve into individual player contributions, this dataset provides a rich foundation for football analytics enthusiasts and professionals alike.
 
 In addition to the core dataset, we have now added more files related to the league table, expanding the dataset with essential information on match outcomes, league standings, and advanced metrics.
 
 Contents
-The dataset contains the following types of data:
+The [Dataset](https://www.kaggle.com/datasets/whisperingkahuna/serie-a-2324-team-and-player-insights) contains the following types of data:
 
 * Team Performance Metrics: Information on accurate passes, crosses, goals conceded, interceptions, and other team stats.
 * Player Performance Metrics: Individual stats including expected goals (xG), assists, clearances, fouls committed, and tackles won.
@@ -19,7 +19,8 @@ The dataset contains the following types of data:
   Overall standings including matches played, wins, draws, losses, goals scored, goal differences, and points.
   Separate breakdowns for home and away performances.
   Advanced metrics including expected goals (xG), expected goals conceded, and expected points.
-The file details provide an overview of each dataset, including a brief description of the data structure and potential uses for analysis. This helps users quickly navigate and understand the data available for analysis.
+  
+The file details provide an overview of each [Dataset](https://www.kaggle.com/datasets/whisperingkahuna/serie-a-2324-team-and-player-insights) , including a brief description of the data structure and potential uses for analysis. This helps users quickly navigate and understand the data available for analysis.
 
 
 
@@ -28,20 +29,23 @@ I'm a data analyst at Napoli. The team failed to qualify for Champions league fo
 
 Insights They Want:
 * Scout potential transfer targets based on performance metrics.
-* Assess opponents' strengths and weaknesses for match preparation.
-* Evaluate their own players' performances for development and tactical adjustments.
   
   ### Use Case:
-  Use passing accuracy and possession metrics to identify midfielders who can strengthen the team's ball control.
+  Use effective clearance and shot conversion metrics to identify defenders who can strengthen the team's teams defense and attackers with poor shot conversions on team as well identify better options to improve the team.
 
 # Prepare and Process PHASE
--The dataset from kaggle was already cleaned and ranked so it fufilled integrety requirements. However, the columns of the csv files useds had to be renamed to adhere to standard naming conventions.
+-The dataset from kaggle was already cleaned and ranked so it fufilled integrety requirements. However, the columns and names of some csv files useds had to be renamed to adhere to standard naming conventions.
 
 -Tools Used for Analysis: SQLWorkBench and Tableau
 
-Datasets used:
+8 Datasets were used for the analysis:
 * league_table23_24
 * expected_goals_conceded_team
 * expected_goals_team
+* big_chance_missed_team
+* effective_clearance_team
+* player_big_chances-created
+* players_effective_clearances
+* player_total_scoring_attempts
 
 # Analyze PHASE
