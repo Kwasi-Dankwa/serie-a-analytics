@@ -59,3 +59,5 @@ Insights They Want:
 # Share PHASE
 
 Results and Recommended Insightsbased on key findings will be given using Tableau
+
+![Serie A 23/24 - Point Gap](ptsgap.png "Serie A 23/24 - Point Gap")
