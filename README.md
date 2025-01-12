@@ -42,7 +42,7 @@ Insights They Want:
 * league_table23_24
 * expected_goals_conceded_team
 * expected_goals_team
-* big_chance_missed_team
+* big_chance_missed_team -- additional columns Total Attempts, Ratio of Missed Chances(changed to two decimal places) where created for visualization in table
 * effective_clearance_team
 * player_big_chances-created
 * players_effective_clearances
