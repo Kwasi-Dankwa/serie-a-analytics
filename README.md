@@ -83,6 +83,7 @@ While Napoli's defensive performance isn't exceptional, their xG suggests that t
 They might need to address some defensive vulnerabilities to reduce the number of high-quality chances they concede.
 
 ![Wasted opportunities](wastedopp.png "Wasted Opportunities")
+
 Key Observation:
 
 Ratio of Missed Chances: The data shows that Napoli has a "Ratio of Missed Chances" of 0.52. This means that they have missed a significant number of scoring opportunities compared to other teams in the league.
@@ -90,6 +91,19 @@ Interpretation:
 
 Wasted Opportunities: Napoli has not been efficient in converting their scoring chances into goals. This suggests that they need to improve their finishing and decision-making in the final third of the field.
 Impact on Performance: This inefficiency in converting chances could be a factor in their overall performance, especially if they are competing for top positions in the league.
+
+![Attacking Efficiency](attackingefficiency.png "Attacking Efficiency")
+
+Key Observations:
+
+Expected Goals vs. Actual Goals: The graph compares Napoli's "Expected Goals" (xG) to their actual "Goals" scored. This indicates that Napoli has scored 55 goals, while their xG was 62.40.
+
+Underperformance: The visualization labels Napoli as "Underperforming." This suggests that they have scored fewer goals than expected based on the quality of scoring chances they created.
+
+Inferences:
+
+Missed Opportunities: Napoli has missed a significant number of scoring opportunities, which has negatively impacted their goal-scoring output.
+Finishing Issues: This underperformance might be attributed to issues with finishing, decision-making in the final third, or both.
 
 ## Player Analysis
 
