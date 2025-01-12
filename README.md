@@ -60,9 +60,38 @@ Insights They Want:
 
 Results and Recommended Insightsbased on key findings will be given using Tableau
 
+## Team Analysis
+
 ![Serie A 23/24 - Point Gap](ptsgap.png "Serie A 23/24 - Point Gap")
 
 * Napoli's League Position: 10th place out of 20 teams.
 * Points: 53, significantly behind the league leaders by 41pts (Inter with 94 points).
 * Goal Difference: +7, which is far lower than teams in the top 4, such as Inter (+67).
 * Goals Scored: 55, while conceding 48, highlighting a relatively average attacking and defensive performance.
+
+![Defensive Performance Analysis](dfp.png "Defensive Performance Analysis")
+
+Key Observations:
+
+Goals Conceded: Napoli has conceded 55 goals, which is a relatively high number compared to the league average. This suggests that their defensive performance could be improved.
+
+Expected Goals Conceded (xG): Napoli's xG is 45, which is lower than their actual goals conceded. This indicates that they might have been a bit unlucky, as they could have conceded fewer goals based on the quality of the chances created against them.
+
+Inferences:
+
+While Napoli's defensive performance isn't exceptional, their xG suggests that they might be able to improve their defensive record with better luck.
+They might need to address some defensive vulnerabilities to reduce the number of high-quality chances they concede.
+
+![Wasted opportunities](wastedopp.png "Wasted Opportunities")
+Key Observation:
+
+Ratio of Missed Chances: The data shows that Napoli has a "Ratio of Missed Chances" of 0.52. This means that they have missed a significant number of scoring opportunities compared to other teams in the league.
+Interpretation:
+
+Wasted Opportunities: Napoli has not been efficient in converting their scoring chances into goals. This suggests that they need to improve their finishing and decision-making in the final third of the field.
+Impact on Performance: This inefficiency in converting chances could be a factor in their overall performance, especially if they are competing for top positions in the league.
+
+## Player Analysis
+
+
+
