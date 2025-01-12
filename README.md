@@ -61,3 +61,8 @@ Insights They Want:
 Results and Recommended Insightsbased on key findings will be given using Tableau
 
 ![Serie A 23/24 - Point Gap](ptsgap.png "Serie A 23/24 - Point Gap")
+
+* Napoli's League Position: 10th place out of 20 teams.
+* Points: 53, significantly behind the league leaders by 41pts (Inter with 94 points).
+* Goal Difference: +7, which is far lower than teams in the top 4, such as Inter (+67).
+* Goals Scored: 55, while conceding 48, highlighting a relatively average attacking and defensive performance.
