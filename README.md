@@ -36,7 +36,7 @@ Insights They Want:
 # Prepare and Process PHASE
 -The dataset from kaggle was already cleaned and ranked so it fufilled integrety requirements. However, the columns and names of some csv files useds had to be renamed to adhere to standard naming conventions.
 
--Tools Used for Analysis: SQLWorkBench and Tableau
+-Tools Used for Analysis: SQLWorkBench, Tableau and Excel
 
 8 Datasets were used for the analysis:
 * league_table23_24
@@ -108,6 +108,43 @@ Missed Opportunities: Napoli has missed a significant number of scoring opportun
 Finishing Issues: This underperformance might be attributed to issues with finishing, decision-making in the final third, or both.
 
 ## Player Analysis
+
+### Attacking - Chances Created
+![Napoli Big Chances Created](naoplibbc.png "Napoli Big Chances Created")
+* Matteo Politano leads the list for Napoli and is among the top 5 creators in the league based on rankings in the csv file.
+* Players like Giovanni Di Lorenzo, Andre-Frank Zambo Anguissa, and Giacomo Raspadori are now prominent in the top 5 for Napoli, indicating their increased creative contributions.
+
+
+![League Big Chances Created](leaguebbc.png "League Big Chances Created")
+Insights:
+* Rafael Leao is the Top Creator: The chart clearly shows that Rafael Leao stands out as the top creator in Serie A with a significant lead, having created 18 "Big Chances."
+
+* Close Competition: The next four players are closely grouped together. Federico Dimarco comes in second with 14 "Big Chances Created", followed by Federico Chiesa with 12. Charles De Ketelaere and Felipe Anderson both created 11 "Big Chances." These are player the scouting team should consider for the next transfer season
+
+* "Big Chances" as the Metric: The visualization focuses on "Big Chances Created" as the measure of creative output. The chart highlights players who are particularly effective at creating high-quality scoring opportunities for their teammates.
+
+### Attacking Recommendations
+
+* Maintain Current Core: Given the strong showing of players like Matteo Politano, Khvicha Kvaratskhelia, and Giacomo Raspadori, Napoli should prioritize retaining these players. They are key contributors to the team's attacking prowess.
+
+* Consider Depth at Winger Positions: While Politano and Kvaratskhelia are performing well, adding depth at the winger positions could provide valuable rotation options and cover for injuries. Players with strong dribbling and crossing abilities would be ideal targets.
+
+### Defense
+
+![Effective Clearances ](ec.png "Effective clearances")
+Team analysis showed napoli conceded more goals than their expected which means they were bad at clearances. The team should look to improve their squad with the best defensive talents in the league.
+
+Insights
+* Consistency Across Teams: Players from Udinese (Jaka Bijol, Thomas Kristensen) and Empoli (Sebastian Walukiewicz, Ardian Ismajli) dominate the rankings, suggesting these teams rely heavily on their defenders to clear the ball effectively.
+* Effective Defenders: These players are crucial to their teams’ defensive efforts, indicating strong positioning and awareness.
+* Strategic Advantage: Teams with players high in clearances might focus on aerial duels or defensive organization under pressure, relying on these players for last-line defense.
+
+### Defensive recomendations
+These insights suggests that recruiting players like Jaka Bijol or Sebastian Walukiewicz could improve defensive stability.
+
+
+
+
 
 
 
