@@ -110,13 +110,15 @@ Finishing Issues: This underperformance might be attributed to issues with finis
 ## Player Analysis
 
 ### Attacking - Chances Created
-![Napoli Big Chances Created](naoplibbc.png "Napoli Big Chances Created")
+![Napoli Big Chances Created](napolibcc.png "Napoli Big Chances Created")
 * Matteo Politano leads the list for Napoli and is among the top 5 creators in the league based on rankings in the csv file.
 * Players like Giovanni Di Lorenzo, Andre-Frank Zambo Anguissa, and Giacomo Raspadori are now prominent in the top 5 for Napoli, indicating their increased creative contributions.
 
 
-![League Big Chances Created](leaguebbc.png "League Big Chances Created")
+![League Big Chances Created](leaguebcc.png "League Big Chances Created")
+
 Insights:
+
 * Rafael Leao is the Top Creator: The chart clearly shows that Rafael Leao stands out as the top creator in Serie A with a significant lead, having created 18 "Big Chances."
 
 * Close Competition: The next four players are closely grouped together. Federico Dimarco comes in second with 14 "Big Chances Created", followed by Federico Chiesa with 12. Charles De Ketelaere and Felipe Anderson both created 11 "Big Chances." These are player the scouting team should consider for the next transfer season
