@@ -96,6 +96,8 @@ Impact on Performance: This inefficiency in converting chances could be a factor
 
 Key Observations:
 
+Performing teams are highlighted in blue while underperforming teams are highlighted in orange
+
 Expected Goals vs. Actual Goals: The graph compares Napoli's "Expected Goals" (xG) to their actual "Goals" scored. This indicates that Napoli has scored 55 goals, while their xG was 62.40.
 
 Underperformance: The visualization labels Napoli as "Underperforming." This suggests that they have scored fewer goals than expected based on the quality of scoring chances they created.
