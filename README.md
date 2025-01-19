@@ -125,7 +125,21 @@ Insights:
 
 * "Big Chances" as the Metric: The visualization focuses on "Big Chances Created" as the measure of creative output. The chart highlights players who are particularly effective at creating high-quality scoring opportunities for their teammates.
 
+### Scoring Efficiency
+
+![Scoring Efficiency](se.png "Scoring Efficiency")
+This chart shows the top 10 most efficient players in the league for the 2023/24 season in terms of goals. Napoli players are highlighted in blue.
+
+* Khvicha Kvaratskhelia & Victor Osimhen: These players are positioned in the upper-right quadrant, indicating a high volume of shots and a good conversion rate. This is a positive sign as they are key players for Napoli.
+
+* Dusan Vlahovic: He is also in the upper-right quadrant, suggesting he's a clinical finisher when he gets his shots
+
+
+
 ### Attacking Recommendations
+Maintain Current Approach with Kvaratskhelia and Osimhen: Continue to provide opportunities for these players to shoot and create scoring chances. Their combination of volume and efficiency is a significant asset.
+
+Poach Vlahovic: Vlahovic is a  clinical finisher, his positioning on the chart suggests he might benefit from getting more shots on target. Napoli could explore tempting himt o move away from Juventus and pair him with our creators to increase his shot volume while maintaining his efficiency which will work well for the team.
 
 * Maintain Current Core: Given the strong showing of players like Matteo Politano, Khvicha Kvaratskhelia, and Giacomo Raspadori, Napoli should prioritize retaining these players. They are key contributors to the team's attacking prowess.
 
